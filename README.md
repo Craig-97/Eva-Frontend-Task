@@ -1,31 +1,15 @@
-# Create React App
+# Eva Health Technologies Frontend task
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+[Click here to view a live example](https://eva-frontend-task.vercel.app/)
 
-## Deploy Your Own
+Make a standalone web page to create a user. We need to collect the user’s first and
+last names, email address and age.
 
-Deploy your own Create React App project with Vercel.
+![image](https://github.com/Craig-97/Eva-Frontend-Task/assets/41014229/6c0c928b-9156-45e9-84c7-97c99d3fb4ec)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+There is a GET endpoint at the same which may prove useful for testing, but note that this is
+a mocked API and will return random data and data you post won’t actually be saved.
 
-_Live Example: https://create-react-template.vercel.app/_
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
