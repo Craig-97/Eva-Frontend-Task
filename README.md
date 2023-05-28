@@ -12,8 +12,6 @@ Created with the following:
 - [React Testing Library (Unit Testing)](https://testing-library.com/)
 - [Cypress (API Testing)](https://www.cypress.io/)
 
-Styling and colours inspired by the Eva Health Technologies brand indentity. Responsive
-
 ## Live Preview
 [Click here](https://eva-frontend-task.vercel.app/)
 
