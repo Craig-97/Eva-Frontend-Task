@@ -1,4 +1,4 @@
-# Eva Health Technologies Frontend task
+# Eva Health Technologies Frontend Task
 
 [Click here to view a live example](https://eva-frontend-task.vercel.app/)
 
