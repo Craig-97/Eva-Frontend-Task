@@ -22,7 +22,7 @@ Styling and colours inspired by the Eva Health Technologies brand indentity. Res
 Make a standalone web page to create a user. We need to collect the user’s first and
 last names, email address and age.
 
-![image](https://github.com/Craig-97/Eva-Frontend-Task/assets/41014229/6c0c928b-9156-45e9-84c7-97c99d3fb4ec)
+![image](https://github.com/Craig-97/Eva-Frontend-Task/assets/41014229/43eda11b-c5b9-4aca-9db5-c29ede8fb3bc)
 
 There is a GET endpoint at the same which may prove useful for testing, but note that this is
 a mocked API and will return random data and data you post won’t actually be saved.
